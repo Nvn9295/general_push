@@ -5,3 +5,7 @@ i am
 naveen
 i ma  changing somethng
 what you need hello world
+run 
+copy
+git pull origin master
+
