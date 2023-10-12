@@ -8,4 +8,7 @@ what you need hello world
 run run run run run rurjhjhfhn 
 copy
 git pull origin master
+git pull -v
+git commit -a -m"coomit"
+
 
